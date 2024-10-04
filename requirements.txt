@@ -1,0 +1,7 @@
+fitz
+streamlit
+nltk
+frontend
+groq
+PyMuPDF
+
